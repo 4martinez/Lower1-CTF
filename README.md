@@ -65,7 +65,7 @@ Ideal para practicar:
 ## 🖋️ Autor
 
 - **Nombre:** Álvaro Martínez
-- 🌐 GitHub:(https://github.com/4mart1nez)
+- 🌐 GitHub:(https://github.com/4martinez)
 - 🐦 Linkedin:(www.linkedin.com/in/4martinez)
 
 ---
