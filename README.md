@@ -1,6 +1,6 @@
 # 💣 Reto CTF: Lower1
 
-> Creado por **4Mart1**  
+> Creado por [4Mart1](https://github.com/4mart1nez) 
 > Mayo 2025 · Nivel: Fácil · Linux · Escalada local
 
 ---
@@ -65,8 +65,8 @@ Ideal para practicar:
 ## 🖋️ Autor
 
 - **Nombre:** Álvaro Martínez
-- 🌐 Web: [https://ilicenetwork.com](https://ilicenetwork.com)  
-- 🐦 Twitter: [@4Mart1](www.linkedin.com/in/4martinez)
+- 🌐 GitHub:(https://github.com/4mart1nez)
+- 🐦 Linkedin:(www.linkedin.com/in/4martinez)
 
 ---
 
